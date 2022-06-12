@@ -1,7 +1,9 @@
 # Human-Computer-Interaction-Repository
 Project for the Introduction to Human-Computer Interaction (CEN 334) course at International Burch University.
 
-#### Heroku App:
+#### Heroku App: 
+https://git.heroku.com/urban-adventures.git
+
 
 
 #### UI design proposal
