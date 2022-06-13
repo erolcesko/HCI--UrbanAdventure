@@ -2,7 +2,7 @@
 Project for the Introduction to Human-Computer Interaction (CEN 334) course at International Burch University.
 
 #### Heroku App: 
-https://git.heroku.com/urban-adventures.git
+https://urban-adventures.herokuapp.com/
 
 
 
